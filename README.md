@@ -18,6 +18,3 @@ npx automatise-wordpress <my-project>
 ## Credits
 
 - Matise - [matise.nl](https://www.matise.nl)
-
-## Critical information
-This package creates a simple Wordpress installation, for the api version checkout: https://github.com/MatiseAms/create-matise-wordpress
